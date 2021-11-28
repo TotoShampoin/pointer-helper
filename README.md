@@ -1,5 +1,7 @@
 # Pointer Helper
 
+[![Watch the video](http://i3.ytimg.com/vi/yZF1YKot80o/hqdefault.jpg)](https://www.youtube.com/watch?v=yZF1YKot80o)
+
 ## How to use
 - Right click to create a pointer-box
 - Left click to drag pointer-box
